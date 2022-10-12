@@ -1,0 +1,67 @@
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.csproj.AssemblyReference.cache
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.Main.resources
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.Properties.Resources.resources
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.csproj.GenerateResource.cache
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.csproj.CoreCompileInputs.cache
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\ViewerProject.exe.config
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\ViewerProject.exe
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\ViewerProject.pdb
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\BaseDotNetInterfaces.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\CSkin.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\NEV.ControlLib.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\Sick.EasyRanger.Controls.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\Sick.EasyRanger.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\OxyPlot.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\OxyPlot.Wpf.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\MahApps.Metro.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\OpenTK.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\OpenTK.GLControl.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\System.Windows.Interactivity.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\NEV.ControlLib.pdb
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\CSkin.xml
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\bin\Debug\sick_easyranger.dll
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.ImageView.resources
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.csproj.CopyComplete
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.exe
+E:\GitHub\Home PC\BatteryDimension\ViewerProject\obj\Debug\ViewerProject.pdb
+E:\GitHub\ViewerProject\bin\Debug\ViewerProject.exe.config
+E:\GitHub\ViewerProject\bin\Debug\ViewerProject.exe
+E:\GitHub\ViewerProject\bin\Debug\ViewerProject.pdb
+E:\GitHub\ViewerProject\bin\Debug\NEV.ControlLib.dll
+E:\GitHub\ViewerProject\bin\Debug\OxyPlot.dll
+E:\GitHub\ViewerProject\bin\Debug\OxyPlot.Wpf.dll
+E:\GitHub\ViewerProject\bin\Debug\MahApps.Metro.dll
+E:\GitHub\ViewerProject\bin\Debug\OpenTK.dll
+E:\GitHub\ViewerProject\bin\Debug\OpenTK.GLControl.dll
+E:\GitHub\ViewerProject\bin\Debug\System.Windows.Interactivity.dll
+E:\GitHub\ViewerProject\bin\Debug\CSkin.xml
+E:\GitHub\ViewerProject\bin\Debug\sick_easyranger.dll
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.csproj.AssemblyReference.cache
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.Main.resources
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.ImageView.resources
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.Properties.Resources.resources
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.csproj.GenerateResource.cache
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.csproj.CoreCompileInputs.cache
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.csproj.CopyComplete
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.exe
+E:\GitHub\ViewerProject\obj\Debug\ViewerProject.pdb
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\ViewerProject.exe.config
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\ViewerProject.exe
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\ViewerProject.pdb
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\NEV.ControlLib.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\sick_easyranger.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.Main.resources
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.ImageView.resources
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.Properties.Resources.resources
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.csproj.GenerateResource.cache
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.csproj.CoreCompileInputs.cache
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.csproj.CopyComplete
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.exe
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\obj\Debug\ViewerProject.pdb
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\OxyPlot.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\OxyPlot.Wpf.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\OpenTK.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\OpenTK.GLControl.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\BaseDotNetInterfaces.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\Sick.EasyRanger.Controls.dll
+E:\GitHub\Utility\3DImage-Fast-Viewer\ViewerProject\bin\Debug\Sick.EasyRanger.dll
