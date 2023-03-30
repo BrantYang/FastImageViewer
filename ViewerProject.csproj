@@ -7,7 +7,7 @@
     <ProjectGuid>{C767073A-DB21-4FC9-9950-D10774EB47E7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ViewerProject</RootNamespace>
-    <AssemblyName>ViewerProject</AssemblyName>
+    <AssemblyName>MagicBox</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,11 @@
       <HintPath>Lib\BaseDotNetInterfaces.dll</HintPath>
     </Reference>
     <Reference Include="CSkin">
-      <HintPath>..\Lib\CSkin.dll</HintPath>
+      <HintPath>..\UtilityLibrary\SailingProject\SailingProject\Lib\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="NEV.BaseUtility, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\NEV.BaseUtility.dll</HintPath>
     </Reference>
     <Reference Include="NEV.ControlLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -61,6 +65,7 @@
       <HintPath>Lib\Sick.EasyRanger.Controls.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -75,6 +80,13 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssemblyInfoManage.cs" />
+    <Compile Include="EnvCopyFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnvCopyFrm.Designer.cs">
+      <DependentUpon>EnvCopyFrm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -89,6 +101,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="EnvCopyFrm.resx">
+      <DependentUpon>EnvCopyFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
@@ -120,6 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="3Da.ico" />
+    <None Include="Resources\folder.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
